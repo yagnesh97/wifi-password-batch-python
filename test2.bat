@@ -1,0 +1,1 @@
+netsh wlan show profile "Btju-UmFqYXQgcHJpeWFua2E" key=clear
